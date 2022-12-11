@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    width: 1200px;
+    margin: 0px auto;
+}
+
+h1{
+    background: #cdcdcd;
+    text-align: center;
+    padding: 15px 0px;
+}
+
+section.about-me, section.about-harsh{
+    border: 2px solid #666;
+    padding: 10px;
+}
+
+.about-me{
+    margin-bottom: 40px;
+}
+
+section h3{
+    text-transform: uppercase;
+    color: #444;
+}
